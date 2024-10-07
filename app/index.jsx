@@ -10,7 +10,7 @@ export default function App(){
     <Text className="text-3xl font-pextrabold">Aora!</Text>
     <StatusBar style="auto"/>
     <Link href="/home" style={{color:"blue"}}>Go to home</Link>
- 
+    </View>
   )
 }
 
